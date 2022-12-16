@@ -1,4 +1,4 @@
-[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/ChristianKahmann/LCM_Binderhub/master)
+[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/ChristianKahmann/LCM_Binderhub/master/?urlpath=shiny/ilcm)
 
 # Note
 This is just the R-Source Code for the Shiny-App. If you want to install the iLCM on your system please use the dockerized version. 
